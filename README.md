@@ -1,3 +1,6 @@
+<h3>Dashboard</h3>
+<p>Development of a dashboard model developed in HTML, CSS and JS.</p>
+
 ![VIEW1](https://user-images.githubusercontent.com/37923860/160016621-3d29e034-18a8-4b76-8055-01a1462dc021.png)
 <br>
 ![VIEW2](https://user-images.githubusercontent.com/37923860/160016624-8faafb29-6a0f-4613-bd81-9ba409c1cf17.png)
